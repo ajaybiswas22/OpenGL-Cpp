@@ -9,3 +9,9 @@ His github link https://github.com/Headturna
 2. Extract youtube_solution.zip to desired location.
 3. Open youtube_solution.sln in Visual Studio.
 4. Open main.cpp and run.
+
+## Learn
+
+1. Replace contents of the project with the lessons provided.
+2. Let's say you replaced it with the contents of 1-creating-a-window.
+3  Then on running the program, you will see a black window.
